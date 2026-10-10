@@ -1,6 +1,6 @@
-#  COVID-19 Data Analysis — Exploratory Data Analysis (EDA)
+#  COVID-19 Data Analysis Exploratory Data Analysis (EDA)
 
-A beginner-friendly **Exploratory Data Analysis (EDA)** project on COVID-19 global data. This project covers data cleaning, descriptive statistics, and insightful visualizations.
+**Exploratory Data Analysis (EDA)** project on COVID-19 global data. This project covers data cleaning, descriptive statistics, and insightful visualizations.
 
 ---
 
