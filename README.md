@@ -1,10 +1,10 @@
-# 🦠 COVID-19 Data Analysis — Exploratory Data Analysis (EDA)
+#  COVID-19 Data Analysis — Exploratory Data Analysis (EDA)
 
 A beginner-friendly **Exploratory Data Analysis (EDA)** project on COVID-19 global data. This project covers data cleaning, descriptive statistics, and insightful visualizations.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 covid19-eda-project/
@@ -20,19 +20,19 @@ covid19-eda-project/
 
 ---
 
-## 📊 What This Project Covers
+##  What This Project Covers
 
-- ✅ **Loading & Exploring** the dataset (shape, dtypes, head/tail)
-- ✅ **Data Cleaning** — handling missing values, formatting dates
-- ✅ **Descriptive Statistics** — mean, median, std, etc.
-- ✅ **Top countries** by confirmed cases, deaths, recoveries
-- ✅ **Time-series analysis** of global COVID-19 spread
-- ✅ **Visualizations** using Matplotlib & Seaborn
-- ✅ **Key Insights & Conclusions**
+-  **Loading & Exploring** the dataset (shape, dtypes, head/tail)
+-  **Data Cleaning** — handling missing values, formatting dates
+-  **Descriptive Statistics** — mean, median, std, etc.
+-  **Top countries** by confirmed cases, deaths, recoveries
+-  **Time-series analysis** of global COVID-19 spread
+-  **Visualizations** using Matplotlib & Seaborn
+-  **Key Insights & Conclusions**
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 | Tool | Purpose |
 |------|---------|
@@ -45,7 +45,7 @@ covid19-eda-project/
 
 ---
 
-## 🚀 How to Run This Project
+##  How to Run This Project
 
 ### 1. Clone the repository
 ```bash
@@ -74,7 +74,7 @@ Then open `covid19_eda.ipynb` and run the cells!
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 The dataset used is the **COVID-19 Global dataset** containing:
 - `Date` — Date of record
@@ -88,18 +88,18 @@ The dataset used is the **COVID-19 Global dataset** containing:
 
 ---
 
-## 📌 Key Findings
+##  Key Findings
 
-- 🌍 The **USA, India, and Brazil** consistently had the highest confirmed case counts.
-- 📈 Global cases grew exponentially through **early 2021**.
-- 💀 The **Case Fatality Rate (CFR)** varied significantly across countries.
-- 🔄 Countries with high recovery rates had relatively **lower active case burdens**.
+-  The **USA, India, and Brazil** consistently had the highest confirmed case counts.
+-  Global cases grew exponentially through **early 2021**.
+-  The **Case Fatality Rate (CFR)** varied significantly across countries.
+-  Countries with high recovery rates had relatively **lower active case burdens**.
 
 ---
 
-## 👤 Author
+##  Author
 
-**Your Name**  
-GitHub: [Anuraggautam03](https://github.com/Anuraggautam03)  
+**Anurag Gautam**  
+GitHub:(https://github.com/Anuraggautam03)  
 
 ---
